@@ -1,0 +1,6 @@
+ackage-lock.json
+.npmrc
+.gitignore
+docs
+*.vsix
+p
